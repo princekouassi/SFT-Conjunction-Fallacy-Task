@@ -1,0 +1,497 @@
+Trial Number, Response, Correct/Incorrect(1/0), RT, Condition, Difficulty, Colour Order (Single Grids Only)
+1	right	1	0.885	b,o	Exp - Hard 1	2	
+2	right	1	1.586	B,o	Con - Easy 1	2	
+3	right	1	1.589	B,o	Con - Easy 2	2	
+4	left	1	0.721	O,b	Con - Easy 1	2	
+5	right	1	1.137	B,o	Con - Easy 1	2	
+6	left	1	0.948	o,b	Exp - Hard 1	2	
+7	left	1	0.666	O,b	Con - Easy 1	2	
+8	left	1	0.711	O,b	Con - Easy 1	2	
+9	right	1	0.700	B,o	Con - Easy 1	2	
+10	right	0	0.893	O,b	Con - Easy 2	2	
+11	right	1	1.519	B,o	Con - Easy 2	2	
+12	right	1	1.088	B,o	Con - Easy 2	2	
+13	right	1	1.563	b,o	Exp - Hard 2	2	
+14	left	1	1.200	o,b	Exp - Hard 2	2	
+15	right	1	0.684	B,o	Con - Easy 2	2	
+16	left	1	0.741	O,b	Con - Easy 1	2	
+17	right	1	0.830	B,o	Con - Easy 1	2	
+18	right	1	1.224	b,o	Exp - Hard 2	2	
+19	right	1	0.994	B,o	Con - Easy 1	2	
+20	left	1	1.008	o,b	Exp - Hard 2	2	
+21	left	1	1.012	o,b	Exp - Hard 2	2	
+22	left	1	0.998	o,b	Exp - Hard 2	2	
+23	left	0	1.131	b,o	Exp - Hard 1	2	
+24	left	0	1.045	b,o	Exp - Hard 1	2	
+25	left	1	1.077	o,b	Exp - Hard 1	2	
+26	right	1	1.549	b,o	Exp - Hard 2	2	
+27	left	0	1.297	b,o	Exp - Hard 1	2	
+28	left	1	1.702	o,b	Exp - Hard 1	2	
+29	left	1	1.421	o,b	Exp - Hard 1	2	
+30	left	1	0.786	O,b	Con - Easy 2	2	
+31	left	1	1.397	o,b	Exp - Hard 2	2	
+32	left	1	2.316	o,b	Exp - Hard 1	2	
+33	right	1	1.767	b,o	Exp - Hard 2	2	
+34	left	1	1.020	O,b	Con - Easy 2	2	
+35	right	1	1.244	b,o	Exp - Hard 1	2	
+36	left	1	0.844	O,b	Con - Easy 2	2	
+37	right	1	1.652	b,o	Exp - Hard 2	2	
+38	right	1	1.713	B,o	Con - Easy 2	2	
+39	left	1	0.657	O,b	Con - Easy 2	2	
+40	left	1	0.912	O,b	Con - Easy 1	2	
+1	right	1	1.908	b2,o2	Exp - Hard 2 & Hard 2	
+2	left	1	1.257	o2,O2	Con - Hard 2 & Easy 2	
+3	right	1	1.759	b2,O2	Con - Hard 2 & Easy 2	
+4	left	0	2.219	B2,O2	Exp - Easy 2 & Easy 2	
+5	left	1	0.921	O1,O1	Exp - Easy 1 & Easy 1	
+6	left	1	2.500	O2,o2	Exp - Easy 2 & Hard 2	
+7	right	1	2.753	b1,o1	Exp - Hard 1 & Hard 1	
+8	right	1	1.302	b2,o2	Exp - Hard 2 & Hard 2	
+9	left	1	1.198	o2,O2	Con - Hard 2 & Easy 2	
+10	right	1	3.168	b2,O2	Con - Hard 2 & Easy 2	
+11	right	0	2.958	o2,O2	Con - Hard 2 & Easy 2	
+12	right	1	2.727	b2,o2	Exp - Hard 2 & Hard 2	
+13	left	0	1.951	b1,O1	Con - Hard 1 & Easy 1	
+14	left	0	3.686	b1,o1	Exp - Hard 1 & Hard 1	
+15	right	1	4.779	b2,O2	Con - Hard 2 & Easy 2	
+16	left	0	2.944	B1,O1	Exp - Easy 1 & Easy 1	
+17	left	0	2.633	B2,O2	Exp - Easy 2 & Easy 2	
+18	left	0	3.542	B2,O2	Exp - Easy 2 & Easy 2	
+19	right	1	3.024	B1,O1	Exp - Easy 1 & Easy 1	
+20	left	0	3.261	B1,O1	Exp - Easy 1 & Easy 1	
+21	right	0	1.912	o2,o2	Exp - Hard 2 & Hard 2	
+22	left	1	1.065	O1,O1	Exp - Easy 1 & Easy 1	
+23	left	0	2.849	b2,O2	Con - Hard 2 & Easy 2	
+24	right	0	3.285	o2,O2	Con - Hard 2 & Easy 2	
+25	right	0	4.865	o1,O1	Con - Hard 1 & Easy 1	
+26	right	1	2.503	b1,o1	Exp - Hard 1 & Hard 1	
+27	right	1	2.080	b2,O2	Con - Hard 2 & Easy 2	
+28	right	0	2.356	o2,o2	Exp - Hard 2 & Hard 2	
+29	right	1	2.697	B2,O2	Exp - Easy 2 & Easy 2	
+30	right	1	1.548	b1,o1	Exp - Hard 1 & Hard 1	
+31	left	0	1.719	B1,O1	Exp - Easy 1 & Easy 1	
+32	left	0	3.063	b2,O2	Con - Hard 2 & Easy 2	
+33	right	1	3.330	b2,o2	Exp - Hard 2 & Hard 2	
+34	left	1	3.217	o2,o2	Exp - Hard 2 & Hard 2	
+35	right	0	3.742	o2,O2	Con - Hard 2 & Easy 2	
+36	left	0	1.923	B2,O2	Exp - Easy 2 & Easy 2	
+37	left	0	1.799	O1,b1	Con - Easy 1 & Hard 1	
+38	left	1	1.303	O1,O1	Exp - Easy 1 & Easy 1	
+39	right	1	2.200	b2,O2	Con - Hard 2 & Easy 2	
+40	right	1	4.244	O1,b1	Con - Easy 1 & Hard 1	
+41	left	1	2.694	O1,o1	Con - Easy 1 & Hard 1	
+42	left	1	2.764	o1,O1	Con - Hard 1 & Easy 1	
+43	left	1	1.589	O2,O2	Exp - Easy 2 & Easy 2	
+44	left	0	1.293	b1,O1	Con - Hard 1 & Easy 1	
+45	left	0	2.503	b1,o1	Exp - Hard 1 & Hard 1	
+46	left	1	1.773	O1,o1	Con - Easy 1 & Hard 1	
+47	left	0	2.606	O1,b1	Con - Easy 1 & Hard 1	
+48	left	1	2.042	O1,o1	Con - Easy 1 & Hard 1	
+49	left	1	2.001	o1,O1	Con - Hard 1 & Easy 1	
+50	left	0	2.265	O2,b2	Con - Easy 2 & Hard 2	
+51	right	0	3.128	o1,o1	Exp - Hard 1 & Hard 1	
+52	right	0	3.507	O1,o1	Con - Easy 1 & Hard 1	
+53	right	1	2.850	B1,O1	Exp - Easy 1 & Easy 1	
+54	left	1	1.127	o1,O1	Con - Hard 1 & Easy 1	
+55	right	0	2.118	O2,o2	Exp - Easy 2 & Hard 2	
+56	left	1	1.197	O1,O1	Exp - Easy 1 & Easy 1	
+57	left	1	1.194	O1,O1	Exp - Easy 1 & Easy 1	
+58	right	0	3.057	O2,o2	Exp - Easy 2 & Hard 2	
+59	right	0	2.641	O1,o1	Con - Easy 1 & Hard 1	
+60	left	0	3.169	b1,o1	Exp - Hard 1 & Hard 1	
+61	left	1	2.111	O2,O2	Exp - Easy 2 & Easy 2	
+62	right	0	2.338	o2,o2	Exp - Hard 2 & Hard 2	
+63	right	0	2.263	o1,o1	Exp - Hard 1 & Hard 1	
+64	left	1	1.383	O2,o2	Exp - Easy 2 & Hard 2	
+65	left	0	3.254	b2,O2	Con - Hard 2 & Easy 2	
+66	left	1	1.755	O2,o2	Exp - Easy 2 & Hard 2	
+67	left	0	2.216	b1,O1	Con - Hard 1 & Easy 1	
+68	left	0	2.219	B1,O1	Exp - Easy 1 & Easy 1	
+69	right	0	1.686	o1,o1	Exp - Hard 1 & Hard 1	
+70	right	1	2.532	b2,o2	Exp - Hard 2 & Hard 2	
+71	left	0	2.201	O1,b1	Con - Easy 1 & Hard 1	
+72	left	0	3.724	O2,b2	Con - Easy 2 & Hard 2	
+73	left	1	2.254	O2,O2	Exp - Easy 2 & Easy 2	
+74	left	0	2.835	b1,O1	Con - Hard 1 & Easy 1	
+75	left	1	1.760	o1,O1	Con - Hard 1 & Easy 1	
+76	right	1	2.729	b1,O1	Con - Hard 1 & Easy 1	
+77	right	1	3.512	b2,o2	Exp - Hard 2 & Hard 2	
+78	left	1	1.842	O2,o2	Exp - Easy 2 & Hard 2	
+79	right	1	2.316	b1,O1	Con - Hard 1 & Easy 1	
+80	left	1	2.579	O1,o1	Con - Easy 1 & Hard 1	
+81	left	1	1.922	o2,O2	Con - Hard 2 & Easy 2	
+82	right	1	2.730	b2,O2	Con - Hard 2 & Easy 2	
+83	left	1	1.089	O1,O1	Exp - Easy 1 & Easy 1	
+84	right	0	1.339	o2,o2	Exp - Hard 2 & Hard 2	
+85	right	0	2.502	O2,o2	Exp - Easy 2 & Hard 2	
+86	left	0	1.913	B1,O1	Exp - Easy 1 & Easy 1	
+87	right	1	1.488	b1,o1	Exp - Hard 1 & Hard 1	
+88	left	0	2.556	O1,b1	Con - Easy 1 & Hard 1	
+89	left	1	1.123	O2,O2	Exp - Easy 2 & Easy 2	
+90	right	0	1.402	O2,O2	Exp - Easy 2 & Easy 2	
+91	right	1	2.161	b2,O2	Con - Hard 2 & Easy 2	
+92	right	1	2.319	b1,O1	Con - Hard 1 & Easy 1	
+93	left	1	2.116	o2,O2	Con - Hard 2 & Easy 2	
+94	right	1	2.404	B1,O1	Exp - Easy 1 & Easy 1	
+95	left	1	4.379	O2,O2	Exp - Easy 2 & Easy 2	
+96	right	1	2.570	B2,O2	Exp - Easy 2 & Easy 2	
+97	left	1	1.352	O1,O1	Exp - Easy 1 & Easy 1	
+98	left	1	1.613	O1,o1	Con - Easy 1 & Hard 1	
+99	left	0	2.040	b2,o2	Exp - Hard 2 & Hard 2	
+100	left	0	2.003	B1,O1	Exp - Easy 1 & Easy 1	
+101	left	1	0.962	O1,O1	Exp - Easy 1 & Easy 1	
+102	left	1	1.296	O2,o2	Exp - Easy 2 & Hard 2	
+103	left	0	1.349	O1,b1	Con - Easy 1 & Hard 1	
+104	left	0	1.758	B1,O1	Exp - Easy 1 & Easy 1	
+105	left	0	1.477	B2,O2	Exp - Easy 2 & Easy 2	
+106	left	1	1.312	o1,O1	Con - Hard 1 & Easy 1	
+107	right	1	1.756	O2,b2	Con - Easy 2 & Hard 2	
+108	left	0	2.008	B2,O2	Exp - Easy 2 & Easy 2	
+109	right	1	1.602	b2,o2	Exp - Hard 2 & Hard 2	
+110	left	0	2.375	B2,O2	Exp - Easy 2 & Easy 2	
+111	right	0	2.151	O2,o2	Exp - Easy 2 & Hard 2	
+112	left	1	2.348	O2,o2	Exp - Easy 2 & Hard 2	
+113	right	1	2.011	b1,o1	Exp - Hard 1 & Hard 1	
+114	right	0	2.109	o2,O2	Con - Hard 2 & Easy 2	
+115	left	0	1.611	B1,O1	Exp - Easy 1 & Easy 1	
+116	left	1	1.653	o1,o1	Exp - Hard 1 & Hard 1	
+117	left	1	1.611	o1,o1	Exp - Hard 1 & Hard 1	
+118	right	0	1.771	o1,o1	Exp - Hard 1 & Hard 1	
+119	left	0	1.275	b1,O1	Con - Hard 1 & Easy 1	
+120	left	1	1.134	o2,O2	Con - Hard 2 & Easy 2	
+121	left	0	2.167	B1,O1	Exp - Easy 1 & Easy 1	
+122	left	1	1.442	o2,O2	Con - Hard 2 & Easy 2	
+123	left	1	1.511	o1,o1	Exp - Hard 1 & Hard 1	
+124	right	1	1.817	B2,O2	Exp - Easy 2 & Easy 2	
+125	right	0	1.947	o2,O2	Con - Hard 2 & Easy 2	
+126	left	0	1.385	O2,b2	Con - Easy 2 & Hard 2	
+127	right	0	2.210	o1,o1	Exp - Hard 1 & Hard 1	
+128	left	1	1.196	O2,O2	Exp - Easy 2 & Easy 2	
+129	left	1	1.333	O2,O2	Exp - Easy 2 & Easy 2	
+130	left	1	1.625	o1,O1	Con - Hard 1 & Easy 1	
+131	left	1	2.036	o1,O1	Con - Hard 1 & Easy 1	
+132	right	0	2.275	o2,o2	Exp - Hard 2 & Hard 2	
+133	left	1	3.342	o1,o1	Exp - Hard 1 & Hard 1	
+134	left	0	2.065	O1,b1	Con - Easy 1 & Hard 1	
+135	left	1	1.840	O2,o2	Exp - Easy 2 & Hard 2	
+136	left	1	1.848	O1,o1	Con - Easy 1 & Hard 1	
+137	right	1	2.340	O2,b2	Con - Easy 2 & Hard 2	
+138	left	1	1.903	o1,o1	Exp - Hard 1 & Hard 1	
+139	right	0	3.193	o2,o2	Exp - Hard 2 & Hard 2	
+140	left	1	1.674	O1,O1	Exp - Easy 1 & Easy 1	
+141	left	1	2.217	o1,O1	Con - Hard 1 & Easy 1	
+142	right	1	1.172	b2,o2	Exp - Hard 2 & Hard 2	
+143	left	0	1.366	O2,b2	Con - Easy 2 & Hard 2	
+144	left	0	1.248	O1,b1	Con - Easy 1 & Hard 1	
+145	left	1	1.145	O1,o1	Con - Easy 1 & Hard 1	
+146	right	0	1.514	o2,o2	Exp - Hard 2 & Hard 2	
+147	left	1	0.951	O1,o1	Con - Easy 1 & Hard 1	
+148	left	1	1.412	O2,O2	Exp - Easy 2 & Easy 2	
+149	left	0	1.438	b1,O1	Con - Hard 1 & Easy 1	
+150	left	0	2.853	B2,O2	Exp - Easy 2 & Easy 2	
+151	left	1	1.506	O1,O1	Exp - Easy 1 & Easy 1	
+152	right	1	2.547	O2,b2	Con - Easy 2 & Hard 2	
+153	right	0	2.506	o2,o2	Exp - Hard 2 & Hard 2	
+154	left	0	1.668	b2,O2	Con - Hard 2 & Easy 2	
+155	left	0	1.777	b1,o1	Exp - Hard 1 & Hard 1	
+156	left	0	1.816	b2,o2	Exp - Hard 2 & Hard 2	
+157	left	0	1.840	O2,b2	Con - Easy 2 & Hard 2	
+158	right	1	2.443	b2,o2	Exp - Hard 2 & Hard 2	
+159	left	0	2.083	b1,O1	Con - Hard 1 & Easy 1	
+160	left	1	2.582	o1,o1	Exp - Hard 1 & Hard 1	
+161	right	0	2.546	o1,o1	Exp - Hard 1 & Hard 1	
+162	left	0	1.596	O1,b1	Con - Easy 1 & Hard 1	
+163	right	1	2.439	b1,o1	Exp - Hard 1 & Hard 1	
+164	left	1	1.001	O1,O1	Exp - Easy 1 & Easy 1	
+165	right	1	2.342	O2,b2	Con - Easy 2 & Hard 2	
+166	left	1	1.671	o2,O2	Con - Hard 2 & Easy 2	
+167	left	1	2.713	O1,O1	Exp - Easy 1 & Easy 1	
+168	right	0	3.420	o1,O1	Con - Hard 1 & Easy 1	
+169	right	0	1.953	o2,o2	Exp - Hard 2 & Hard 2	
+170	left	1	2.273	O2,O2	Exp - Easy 2 & Easy 2	
+171	left	0	3.523	B1,O1	Exp - Easy 1 & Easy 1	
+172	right	1	5.334	O1,b1	Con - Easy 1 & Hard 1	
+173	left	1	1.965	o1,O1	Con - Hard 1 & Easy 1	
+174	right	0	2.859	O1,o1	Con - Easy 1 & Hard 1	
+175	left	0	3.477	O2,b2	Con - Easy 2 & Hard 2	
+176	left	1	2.454	O2,O2	Exp - Easy 2 & Easy 2	
+177	right	1	3.282	O1,b1	Con - Easy 1 & Hard 1	
+178	left	1	4.671	O1,o1	Con - Easy 1 & Hard 1	
+179	left	1	3.903	o1,o1	Exp - Hard 1 & Hard 1	
+180	right	1	2.107	b1,o1	Exp - Hard 1 & Hard 1	
+181	right	0	2.754	o2,o2	Exp - Hard 2 & Hard 2	
+182	right	1	3.464	b1,o1	Exp - Hard 1 & Hard 1	
+183	left	1	2.833	o1,O1	Con - Hard 1 & Easy 1	
+184	right	1	3.525	b1,o1	Exp - Hard 1 & Hard 1	
+185	right	0	3.112	O1,o1	Con - Easy 1 & Hard 1	
+186	right	1	3.343	O2,b2	Con - Easy 2 & Hard 2	
+187	right	0	2.801	O2,O2	Exp - Easy 2 & Easy 2	
+188	right	1	2.471	O2,b2	Con - Easy 2 & Hard 2	
+189	right	1	2.182	b2,o2	Exp - Hard 2 & Hard 2	
+190	right	1	3.617	b2,O2	Con - Hard 2 & Easy 2	
+191	left	0	2.089	O1,b1	Con - Easy 1 & Hard 1	
+192	left	1	1.585	O2,O2	Exp - Easy 2 & Easy 2	
+193	right	1	3.257	b1,O1	Con - Hard 1 & Easy 1	
+194	right	0	2.359	o2,O2	Con - Hard 2 & Easy 2	
+195	right	1	3.458	b2,O2	Con - Hard 2 & Easy 2	
+196	right	0	3.680	o1,O1	Con - Hard 1 & Easy 1	
+197	right	1	1.986	b1,O1	Con - Hard 1 & Easy 1	
+198	left	1	2.592	O2,o2	Exp - Easy 2 & Hard 2	
+199	right	1	3.258	B2,O2	Exp - Easy 2 & Easy 2	
+200	right	1	2.401	O2,b2	Con - Easy 2 & Hard 2	
+201	right	0	3.163	o2,o2	Exp - Hard 2 & Hard 2	
+202	left	0	2.928	b1,O1	Con - Hard 1 & Easy 1	
+203	left	0	1.882	O1,b1	Con - Easy 1 & Hard 1	
+204	left	1	1.182	O1,O1	Exp - Easy 1 & Easy 1	
+205	right	0	2.586	o2,o2	Exp - Hard 2 & Hard 2	
+206	left	1	1.540	O2,o2	Exp - Easy 2 & Hard 2	
+207	right	1	2.545	B2,O2	Exp - Easy 2 & Easy 2	
+208	left	0	4.086	b2,o2	Exp - Hard 2 & Hard 2	
+1	right	1	4.220	O,b	Con - Easy 2	1	
+2	left	0	5.394	o,b	Exp - Hard 2	1	
+3	right	1	1.891	O,b	Con - Easy 2	1	
+4	left	1	0.958	B,o	Con - Easy 1	1	
+5	left	1	0.789	B,o	Con - Easy 1	1	
+6	right	1	1.260	O,b	Con - Easy 1	1	
+7	right	1	1.930	o,b	Exp - Hard 2	1	
+8	left	1	1.476	b,o	Exp - Hard 2	1	
+9	left	1	1.368	B,o	Con - Easy 2	1	
+10	left	1	1.345	b,o	Exp - Hard 2	1	
+11	right	1	0.900	O,b	Con - Easy 1	1	
+12	right	0	1.726	b,o	Exp - Hard 1	1	
+13	right	1	0.927	O,b	Con - Easy 2	1	
+14	left	1	0.659	b,o	Exp - Hard 1	1	
+15	left	1	0.685	b,o	Exp - Hard 2	1	
+16	left	1	0.568	B,o	Con - Easy 2	1	
+17	left	1	0.996	b,o	Exp - Hard 1	1	
+18	right	1	0.992	o,b	Exp - Hard 1	1	
+19	left	1	0.690	B,o	Con - Easy 1	1	
+20	right	1	0.701	O,b	Con - Easy 2	1	
+21	right	1	0.900	O,b	Con - Easy 2	1	
+22	right	1	1.337	o,b	Exp - Hard 2	1	
+23	right	1	1.276	o,b	Exp - Hard 2	1	
+24	left	1	1.134	b,o	Exp - Hard 2	1	
+25	left	1	0.595	B,o	Con - Easy 1	1	
+26	left	1	0.754	b,o	Exp - Hard 2	1	
+27	left	1	0.743	b,o	Exp - Hard 1	1	
+28	left	1	0.625	B,o	Con - Easy 2	1	
+29	right	1	1.052	o,b	Exp - Hard 1	1	
+30	right	1	1.010	O,b	Con - Easy 1	1	
+31	right	1	0.858	O,b	Con - Easy 1	1	
+32	right	1	0.952	O,b	Con - Easy 1	1	
+33	right	1	0.843	o,b	Exp - Hard 2	1	
+34	right	1	0.838	o,b	Exp - Hard 1	1	
+35	left	1	0.827	B,o	Con - Easy 2	1	
+36	right	1	1.199	o,b	Exp - Hard 1	1	
+37	left	1	1.117	b,o	Exp - Hard 1	1	
+38	left	1	0.829	B,o	Con - Easy 2	1	
+39	left	0	1.804	o,b	Exp - Hard 1	1	
+40	left	1	0.725	B,o	Con - Easy 1	1	
+1	left	0	2.960	O2,B2	Exp - Easy 2 & Easy 2	
+2	left	1	2.756	O1,B1	Exp - Easy 1 & Easy 1	
+3	right	1	1.593	B2,o2	Con - Easy 2 & Hard 2	
+4	left	1	2.185	b1,b1	Exp - Hard 1 & Hard 1	
+5	left	0	1.066	B2,B2	Exp - Easy 2 & Easy 2	
+6	left	1	0.923	B1,B1	Exp - Easy 1 & Easy 1	
+7	left	1	1.420	b2,b2	Exp - Hard 2 & Hard 2	
+8	right	1	1.484	o1,B1	Con - Hard 1 & Easy 1	
+9	left	0	1.920	O2,B2	Exp - Easy 2 & Easy 2	
+10	left	0	2.085	o2,b2	Exp - Hard 2 & Hard 2	
+11	left	0	0.801	B2,B2	Exp - Easy 2 & Easy 2	
+12	left	1	0.924	b2,B2	Con - Hard 2 & Easy 2	
+13	left	1	1.149	b1,B1	Con - Hard 1 & Easy 1	
+14	left	1	1.063	b2,B2	Con - Hard 2 & Easy 2	
+15	left	1	1.069	b1,B1	Con - Hard 1 & Easy 1	
+16	left	1	1.046	b2,B2	Con - Hard 2 & Easy 2	
+17	left	1	1.350	b1,B1	Con - Hard 1 & Easy 1	
+18	left	1	0.885	B1,B1	Exp - Easy 1 & Easy 1	
+19	right	1	1.426	B2,o2	Con - Easy 2 & Hard 2	
+20	left	1	1.985	B1,b1	Con - Easy 1 & Hard 1	
+21	right	0	1.314	b2,b2	Exp - Hard 2 & Hard 2	
+22	left	1	1.360	b1,b1	Exp - Hard 1 & Hard 1	
+23	right	1	0.953	o2,b2	Exp - Hard 2 & Hard 2	
+24	right	0	0.941	b2,b2	Exp - Hard 2 & Hard 2	
+25	right	0	0.839	B2,b2	Con - Easy 2 & Hard 2	
+26	left	0	1.165	O2,B2	Exp - Easy 2 & Easy 2	
+27	right	0	1.092	b1,b1	Exp - Hard 1 & Hard 1	
+28	right	1	1.532	O1,B1	Exp - Easy 1 & Easy 1	
+29	left	0	0.964	o1,B1	Con - Hard 1 & Easy 1	
+30	left	0	1.064	o2,B2	Con - Hard 2 & Easy 2	
+31	left	1	0.664	B1,b1	Con - Easy 1 & Hard 1	
+32	left	1	0.756	B1,B1	Exp - Easy 1 & Easy 1	
+33	left	1	0.877	b1,b1	Exp - Hard 1 & Hard 1	
+34	right	1	1.092	B1,o1	Con - Easy 1 & Hard 1	
+35	right	1	1.333	B1,o1	Con - Easy 1 & Hard 1	
+36	right	1	1.006	B2,o2	Con - Easy 2 & Hard 2	
+37	right	1	1.119	o2,B2	Con - Hard 2 & Easy 2	
+38	right	1	1.262	O2,B2	Exp - Easy 2 & Easy 2	
+39	right	0	1.132	B2,b2	Con - Easy 2 & Hard 2	
+40	right	0	1.082	b2,b2	Exp - Hard 2 & Hard 2	
+41	left	1	1.283	b1,B1	Con - Hard 1 & Easy 1	
+42	left	1	0.899	B1,B1	Exp - Easy 1 & Easy 1	
+43	right	1	1.750	o1,b1	Exp - Hard 1 & Hard 1	
+44	left	0	1.197	o1,B1	Con - Hard 1 & Easy 1	
+45	left	1	1.016	b1,b1	Exp - Hard 1 & Hard 1	
+46	right	0	1.369	B2,b2	Con - Easy 2 & Hard 2	
+47	right	1	1.248	o1,B1	Con - Hard 1 & Easy 1	
+48	right	1	1.046	o2,B2	Con - Hard 2 & Easy 2	
+49	right	1	1.145	B2,o2	Con - Easy 2 & Hard 2	
+50	right	1	1.419	B1,o1	Con - Easy 1 & Hard 1	
+51	right	1	1.443	o1,b1	Exp - Hard 1 & Hard 1	
+52	right	1	1.751	o2,b2	Exp - Hard 2 & Hard 2	
+53	left	1	1.341	B1,b1	Con - Easy 1 & Hard 1	
+54	left	1	0.826	b2,b2	Exp - Hard 2 & Hard 2	
+55	left	1	0.651	B1,B1	Exp - Easy 1 & Easy 1	
+56	right	0	1.307	B2,b2	Con - Easy 2 & Hard 2	
+57	right	0	1.167	B1,b1	Con - Easy 1 & Hard 1	
+58	right	1	1.526	o2,B2	Con - Hard 2 & Easy 2	
+59	right	1	1.539	o1,b1	Exp - Hard 1 & Hard 1	
+60	left	0	1.379	o1,B1	Con - Hard 1 & Easy 1	
+61	left	1	0.674	b2,B2	Con - Hard 2 & Easy 2	
+62	left	0	1.104	B2,B2	Exp - Easy 2 & Easy 2	
+63	left	1	1.802	B2,b2	Con - Easy 2 & Hard 2	
+64	left	1	0.677	B1,B1	Exp - Easy 1 & Easy 1	
+65	left	1	1.164	b1,B1	Con - Hard 1 & Easy 1	
+66	left	0	1.425	B1,o1	Con - Easy 1 & Hard 1	
+67	left	1	0.683	b1,B1	Con - Hard 1 & Easy 1	
+68	right	0	2.480	B1,b1	Con - Easy 1 & Hard 1	
+69	left	1	1.920	B1,B1	Exp - Easy 1 & Easy 1	
+70	left	1	1.203	b2,b2	Exp - Hard 2 & Hard 2	
+71	right	1	1.204	B2,o2	Con - Easy 2 & Hard 2	
+72	left	1	1.086	O1,B1	Exp - Easy 1 & Easy 1	
+73	left	0	1.056	o2,B2	Con - Hard 2 & Easy 2	
+74	right	1	1.245	o2,B2	Con - Hard 2 & Easy 2	
+75	right	0	1.995	b1,b1	Exp - Hard 1 & Hard 1	
+76	left	0	1.164	O2,B2	Exp - Easy 2 & Easy 2	
+77	left	0	0.974	o1,B1	Con - Hard 1 & Easy 1	
+78	left	1	1.642	b1,b1	Exp - Hard 1 & Hard 1	
+79	right	1	1.458	o1,b1	Exp - Hard 1 & Hard 1	
+80	right	1	1.675	B2,o2	Con - Easy 2 & Hard 2	
+81	left	0	1.034	o2,B2	Con - Hard 2 & Easy 2	
+82	right	1	1.538	o1,b1	Exp - Hard 1 & Hard 1	
+83	left	1	0.682	b1,B1	Con - Hard 1 & Easy 1	
+84	left	1	0.630	B1,B1	Exp - Easy 1 & Easy 1	
+85	right	1	1.257	O2,B2	Exp - Easy 2 & Easy 2	
+86	left	1	1.205	B1,b1	Con - Easy 1 & Hard 1	
+87	left	0	1.016	o1,b1	Exp - Hard 1 & Hard 1	
+88	left	0	0.936	B2,B2	Exp - Easy 2 & Easy 2	
+89	right	1	1.130	o2,b2	Exp - Hard 2 & Hard 2	
+90	left	1	0.873	O1,B1	Exp - Easy 1 & Easy 1	
+91	left	0	1.703	B2,o2	Con - Easy 2 & Hard 2	
+92	left	0	1.623	o2,B2	Con - Hard 2 & Easy 2	
+93	right	0	1.734	b2,b2	Exp - Hard 2 & Hard 2	
+94	right	1	1.651	o2,b2	Exp - Hard 2 & Hard 2	
+95	left	0	1.261	O2,B2	Exp - Easy 2 & Easy 2	
+96	left	1	1.086	O1,B1	Exp - Easy 1 & Easy 1	
+97	right	1	1.183	o2,b2	Exp - Hard 2 & Hard 2	
+98	left	0	1.516	o1,B1	Con - Hard 1 & Easy 1	
+99	right	0	1.161	b1,b1	Exp - Hard 1 & Hard 1	
+100	left	1	1.069	B1,b1	Con - Easy 1 & Hard 1	
+101	left	0	0.915	o1,B1	Con - Hard 1 & Easy 1	
+102	right	1	0.834	B1,o1	Con - Easy 1 & Hard 1	
+103	right	0	1.155	b1,b1	Exp - Hard 1 & Hard 1	
+104	left	0	1.083	B2,B2	Exp - Easy 2 & Easy 2	
+105	left	0	2.449	o2,B2	Con - Hard 2 & Easy 2	
+106	left	0	1.643	B1,o1	Con - Easy 1 & Hard 1	
+107	right	1	1.311	O2,B2	Exp - Easy 2 & Easy 2	
+108	right	1	1.255	o2,B2	Con - Hard 2 & Easy 2	
+109	right	0	1.652	b2,b2	Exp - Hard 2 & Hard 2	
+110	left	1	2.182	b2,B2	Con - Hard 2 & Easy 2	
+111	left	1	1.552	O1,B1	Exp - Easy 1 & Easy 1	
+112	left	1	1.309	B1,B1	Exp - Easy 1 & Easy 1	
+113	right	0	1.399	B2,b2	Con - Easy 2 & Hard 2	
+114	left	1	1.478	b1,B1	Con - Hard 1 & Easy 1	
+115	right	1	1.613	o2,b2	Exp - Hard 2 & Hard 2	
+116	left	1	2.223	b1,b1	Exp - Hard 1 & Hard 1	
+117	left	0	1.199	o1,B1	Con - Hard 1 & Easy 1	
+118	left	1	1.564	B1,b1	Con - Easy 1 & Hard 1	
+119	left	1	0.828	b1,B1	Con - Hard 1 & Easy 1	
+120	right	0	1.474	B1,b1	Con - Easy 1 & Hard 1	
+121	left	0	1.309	B2,B2	Exp - Easy 2 & Easy 2	
+122	left	1	1.310	B2,b2	Con - Easy 2 & Hard 2	
+123	left	1	1.449	b2,B2	Con - Hard 2 & Easy 2	
+124	left	0	1.774	B1,o1	Con - Easy 1 & Hard 1	
+125	right	1	2.978	o2,b2	Exp - Hard 2 & Hard 2	
+126	left	1	1.047	B2,b2	Con - Easy 2 & Hard 2	
+127	left	1	1.202	b2,B2	Con - Hard 2 & Easy 2	
+128	left	1	1.423	b1,B1	Con - Hard 1 & Easy 1	
+129	left	1	1.047	B2,b2	Con - Easy 2 & Hard 2	
+130	right	1	1.257	O2,B2	Exp - Easy 2 & Easy 2	
+131	left	1	2.362	b2,B2	Con - Hard 2 & Easy 2	
+132	right	1	0.971	O2,B2	Exp - Easy 2 & Easy 2	
+133	right	1	1.795	o2,b2	Exp - Hard 2 & Hard 2	
+134	left	1	1.840	B2,b2	Con - Easy 2 & Hard 2	
+135	left	0	1.333	o1,b1	Exp - Hard 1 & Hard 1	
+136	left	1	1.145	b1,B1	Con - Hard 1 & Easy 1	
+137	left	1	1.057	O1,B1	Exp - Easy 1 & Easy 1	
+138	left	0	2.179	o2,b2	Exp - Hard 2 & Hard 2	
+139	right	1	1.673	O1,B1	Exp - Easy 1 & Easy 1	
+140	right	0	1.798	b2,b2	Exp - Hard 2 & Hard 2	
+141	right	1	1.653	o1,b1	Exp - Hard 1 & Hard 1	
+142	left	1	1.284	b2,b2	Exp - Hard 2 & Hard 2	
+143	right	1	2.121	O2,B2	Exp - Easy 2 & Easy 2	
+144	left	0	1.666	o1,b1	Exp - Hard 1 & Hard 1	
+145	left	0	1.261	B2,B2	Exp - Easy 2 & Easy 2	
+146	left	0	1.254	o2,b2	Exp - Hard 2 & Hard 2	
+147	left	0	1.402	B2,o2	Con - Easy 2 & Hard 2	
+148	left	1	1.049	b2,B2	Con - Hard 2 & Easy 2	
+149	left	1	0.821	B1,B1	Exp - Easy 1 & Easy 1	
+150	left	0	1.250	o2,B2	Con - Hard 2 & Easy 2	
+151	left	0	1.005	o2,b2	Exp - Hard 2 & Hard 2	
+152	left	0	1.952	o2,B2	Con - Hard 2 & Easy 2	
+153	right	1	2.091	O1,B1	Exp - Easy 1 & Easy 1	
+154	right	1	1.896	B1,o1	Con - Easy 1 & Hard 1	
+155	right	0	1.913	b1,b1	Exp - Hard 1 & Hard 1	
+156	left	0	1.483	B1,o1	Con - Easy 1 & Hard 1	
+157	right	1	2.142	B1,o1	Con - Easy 1 & Hard 1	
+158	right	0	4.009	b1,b1	Exp - Hard 1 & Hard 1	
+159	left	1	2.337	B1,B1	Exp - Easy 1 & Easy 1	
+160	left	1	2.662	b2,b2	Exp - Hard 2 & Hard 2	
+161	left	1	2.591	b1,B1	Con - Hard 1 & Easy 1	
+162	left	1	2.445	B2,b2	Con - Easy 2 & Hard 2	
+163	left	0	3.937	B1,o1	Con - Easy 1 & Hard 1	
+164	left	0	3.996	o1,b1	Exp - Hard 1 & Hard 1	
+165	right	1	3.043	O2,B2	Exp - Easy 2 & Easy 2	
+166	left	0	2.831	o1,B1	Con - Hard 1 & Easy 1	
+167	right	1	3.551	B1,o1	Con - Easy 1 & Hard 1	
+168	left	0	3.457	B2,o2	Con - Easy 2 & Hard 2	
+169	right	1	3.507	O1,B1	Exp - Easy 1 & Easy 1	
+170	left	0	3.441	B2,B2	Exp - Easy 2 & Easy 2	
+171	right	0	3.728	B2,b2	Con - Easy 2 & Hard 2	
+172	left	1	1.627	B1,b1	Con - Easy 1 & Hard 1	
+173	left	1	1.269	B1,b1	Con - Easy 1 & Hard 1	
+174	right	1	3.539	O1,B1	Exp - Easy 1 & Easy 1	
+175	left	0	5.684	B2,B2	Exp - Easy 2 & Easy 2	
+176	left	1	7.184	O1,B1	Exp - Easy 1 & Easy 1	
+177	left	1	6.033	B1,B1	Exp - Easy 1 & Easy 1	
+178	left	1	5.194	B1,b1	Con - Easy 1 & Hard 1	
+179	right	0	2.837	B2,B2	Exp - Easy 2 & Easy 2	
+180	right	1	5.965	B1,o1	Con - Easy 1 & Hard 1	
+181	right	1	2.267	o1,b1	Exp - Hard 1 & Hard 1	
+182	left	0	3.569	o1,B1	Con - Hard 1 & Easy 1	
+183	right	1	3.650	B2,o2	Con - Easy 2 & Hard 2	
+184	right	0	5.374	b2,B2	Con - Hard 2 & Easy 2	
+185	right	1	2.973	o1,b1	Exp - Hard 1 & Hard 1	
+186	left	0	1.656	B2,o2	Con - Easy 2 & Hard 2	
+187	right	1	2.773	O1,B1	Exp - Easy 1 & Easy 1	
+188	right	1	2.226	o2,b2	Exp - Hard 2 & Hard 2	
+189	left	0	1.375	B2,B2	Exp - Easy 2 & Easy 2	
+190	left	1	4.897	b1,b1	Exp - Hard 1 & Hard 1	
+191	left	0	4.383	o1,B1	Con - Hard 1 & Easy 1	
+192	left	0	2.198	B2,B2	Exp - Easy 2 & Easy 2	
+193	left	1	5.895	B2,b2	Con - Easy 2 & Hard 2	
+194	right	1	3.833	B2,o2	Con - Easy 2 & Hard 2	
+195	left	0	2.884	o1,B1	Con - Hard 1 & Easy 1	
+196	right	1	4.276	O2,B2	Exp - Easy 2 & Easy 2	
+197	left	1	3.578	b1,B1	Con - Hard 1 & Easy 1	
+198	left	1	1.535	B1,b1	Con - Easy 1 & Hard 1	
+199	left	1	1.566	b2,B2	Con - Hard 2 & Easy 2	
+200	left	0	2.883	o1,b1	Exp - Hard 1 & Hard 1	
+201	left	1	1.589	B1,B1	Exp - Easy 1 & Easy 1	
+202	left	0	1.362	o2,B2	Con - Hard 2 & Easy 2	
+203	left	0	1.428	B2,o2	Con - Easy 2 & Hard 2	
+204	right	0	1.812	b2,b2	Exp - Hard 2 & Hard 2	
+205	right	0	2.589	b2,B2	Con - Hard 2 & Easy 2	
+206	left	0	2.547	B2,B2	Exp - Easy 2 & Easy 2	
+207	left	1	3.003	b2,b2	Exp - Hard 2 & Hard 2	
+208	right	0	3.386	b2,B2	Con - Hard 2 & Easy 2	
