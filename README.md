@@ -3,4 +3,5 @@
 
 Also, rememeber that when you run the code you have to put these files into a folder that ALSO contains a foler called "Flash_Grid_Results", where the data will be saved. Otherwise, the results from the experiment won't be saved anywhere and you'll get these funny error msgs at the end of the task.
 
-This is psychopy python code for my second conjunction fallacy experiment, based on the systems factorial technology design.
+This is psychopy Python code for my second conjunction fallacy experiment, based on the systems factorial technology design. It also includes Matlab code to analyse the saved data from the experiment.
+
